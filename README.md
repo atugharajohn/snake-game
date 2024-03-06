@@ -34,10 +34,3 @@ This is a Snake Game implemented in Python using the Pygame library.
 
 - Python 3.x
 - Pygame library
-
-## Acknowledgments 🙏
-
-- This game is inspired by the classic Snake Game.
-- Developed by [Your Name]
-
-Feel free to contribute and improve upon this project! 🚀
